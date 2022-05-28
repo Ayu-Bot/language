@@ -1,1 +1,3 @@
-# language
+# Language
+
+Become a translator!
