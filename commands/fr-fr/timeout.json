@@ -1,0 +1,8 @@
+{
+ "text":  ":mute: | {member} a été rendu muet !\n:timer: | La parole lui sera rendu dans <t:{timer}:R>.",
+ "error": "[ERROR] Tu ne peux utiliser cette commande. Seul les administateurs avec la permission ``MODERATE_MEMBERS`` peuvent l'utiliser !",
+ "error2":"[ERROR] Je ne peux pas exécuter cette commande car je n'ai pas la permission ``MODERATE_MEMBERS`` !",
+ "error3":"[ERROR] Je n'ai pas pu trouver cet utilisateur, vérifie s'il est correct.",
+ "error4":"[ERROR] Je ne peux pas te rendre muet.",
+ "error5":"[ERROR] Entre une durée valide !"
+}

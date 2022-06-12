@@ -1,0 +1,17 @@
+{
+ "text": {
+          "content": "Paramètres du serveur", 
+          "embeds":[
+                 {"title":"En train de configurer {server.name}", 
+                  "description": "Configure ton serveur avec le bot au lieu de le configurer sur le site pour une configuration plus facile et rapide !",
+                  "thumbnail": {"url": "{server.icon}"},
+                  "color": "#0099ff"},
+                 {"description": "Système d'accueil"}
+                 ]
+         },
+    "select": [{
+        "label": "Système d'accueil",
+        "description": "Configure le message d'accueil et de départ d'un utilisateur en définissant le salon et le texte du message !"
+    }]
+
+}
